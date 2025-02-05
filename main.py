@@ -1,3 +1,4 @@
+# press t for activate the camera 
 import cv2
 import imutils
 
